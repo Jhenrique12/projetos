@@ -1,14 +1,12 @@
-# Projetos 
+# My portfolio
 
-## Resumo 
-  Neste repositório ficarão meus projetos relvantes durante meu aprendizado como programador.
+## Resumo / Summary
+  Meu portifólio de projetos onde contém meus repositórios com aplicações utilizando as tecnologias que trabalho.
+
+  My portfolio of projects which contains my repositories with applications using the technologies I work with.
+
+## Projetos / Projects
   
-## Links Úteis
-
-- [Site para codar em portugol para fins didáticos](https://portugol-webstudio.cubos.io/ide)
-- [Guia de Sintaxe Markdown](https://www.markdownguide.org/getting-started/)
-
-## Projetos
-  
- 1 - Criação de uma homepage de um site de turismo utilizando HTML5 e CCS3 com foco em Flexbox; 
+ 1 - Creating a homepage for a tourism website using HTML5 and CCS3 with a focus on Flexbox (homepage-web-flexbox);
+ 2 - Creation of Instagram landing page using HTML5 and CCS3 with focus on Flexbox (instagram-landing-page);
  
