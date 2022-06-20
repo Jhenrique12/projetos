@@ -1,2 +1,0 @@
-# Projeto homepage utilizando Flexbox
-
