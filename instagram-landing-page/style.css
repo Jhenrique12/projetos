@@ -17,6 +17,7 @@ body {
     display: flex;
     justify-content: center;
     flex-direction: column;
+    align-items: center;
 }
 
 /* Left side - phone side */
@@ -130,14 +131,23 @@ body {
     background-image: url(./img/googleplay-button.png);
 }
 
-.footer{
-    display: flex;
-    background-color: white;
-    justify-content: space-between;
-    text-decoration: none;
+footer{
+    align-self: stretch;
 }
+
+.footer{
+    justify-content: space-between;
+    align-items: baseline;
+    display: flex;
+}
+
 .footer a{
     color: #0095f6;
+    text-decoration: none;
+}
+
+.footer p{
+    font-size: 10px;
 }
 
 /*Resposividade mobile - media queries*/
