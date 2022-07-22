@@ -11,3 +11,5 @@
  
  2 - Instagram landing page using HTML5 and CCS3 with focus on Flexbox (instagram-landing-page);
  
+ 3- A Front end project of a book store e-commerce made with Angular and consuming books API; 
+ 
