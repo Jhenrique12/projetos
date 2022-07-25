@@ -20,5 +20,5 @@
  
  3- Um projeto Front-end de um e-commerce de livraria feito com Angular e API de livros /
  
- A Front end project of a book store e-commerce made with Angular and consuming books API
+ A Front end project of a book store e-commerce made with Angular and consuming books API;
  
